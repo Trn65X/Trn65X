@@ -1,28 +1,21 @@
-# AI & Full-Stack Engineer | System Architect
+# AI & Full-Stack Developer | ML Infrastructure
 
-Designing **high-performance full-stack applications** with integrated **AI/ML pipelines**. Skilled in **system architecture**, microservices, and **cloud infrastructure**.
+Creating **AI-first full-stack applications** with **robust backend systems**. Specialize in **ML infrastructure, API design, and cloud deployment**.
 
 ---
 
 ## 🔭 Focus Areas
-- Full-Stack Web & API Development  
-- AI/ML Infrastructure & Model Serving  
-- Distributed Systems & Microservices  
-- Cloud-Native & Serverless Applications  
-- System Design & Performance Tuning  
+- Full-Stack Development  
+- AI/ML Model Serving & Pipelines  
+- Scalable API & Microservices  
+- Cloud-Native Applications  
+- Observability & Monitoring  
 
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Python · TypeScript · Go · Rust · SQL  
+- **Languages:** Python · TypeScript · Go · Rust  
 - **AI/ML:** PyTorch · TensorFlow · Hugging Face · scikit-learn  
-- **Backend:** FastAPI · Django · Node.js · gRPC  
-- **Databases:** PostgreSQL · Redis · MongoDB  
-- **Cloud & DevOps:** Docker · Kubernetes · AWS · GCP · Terraform  
-
----
-
-## 💻 Projects
-- Built scalable AI pipelines for predictive analytics  
-- Developed microservices for web and cloud apps  
-- Contributed to open-source libraries for AI model deployment  
+- **Backend:** Node.js · Django · FastAPI · REST · gRPC  
+- **Databases:** PostgreSQL · MongoDB · Redis  
+- **Cloud:** AWS · GCP · Docker · Kubernetes · CI/CD  
